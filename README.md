@@ -10,3 +10,4 @@ Modificado por Raúl Cortijo
 Modificado por Idlir Bregu
 Modificado por Angel Castillo
 Modificado por Tomás García Chávez
+Modificado por Daniel vega
